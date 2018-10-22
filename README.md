@@ -1,6 +1,6 @@
-# TikTok Sign Service
+# TikTok/musical.ly Sign Service
 
-This is an online demo for tiktok/musicaly sign algorithm. 
+This is an online demo for tiktok/musical.ly sign algorithm. 
 If you need to deploy this service on your own private server, please contact [hello@crawldata.app](hello@crawldata.app) for business affairs.
 Every demo function can be called only 20 times.
 
