@@ -1,6 +1,6 @@
 # TikTok Sign Service
 
-This is a online demo for tiktok/musicaly sign algorithm. 
+This is an online demo for tiktok/musicaly sign algorithm. 
 If you need to deploy this service on your own private server, please contact [hello@crawldata.app](hello@crawldata.app) for business affairs.
 Every demo function can be called only 20 times.
 
@@ -11,6 +11,7 @@ Every demo function can be called only 20 times.
 [https://crawldata.app/api/tiktok/v1/feed](https://crawldata.app/api/tiktok/v1/feed)
 
 + Get someone's own videos
+
 [https://crawldata.app/api/tiktok/v1/aweme/post?user_id=100481652413403136&max_cursor=0&count=20
 ](https://crawldata.app/api/tiktok/v1/aweme/post?user_id=100481652413403136&max_cursor=0&count=20
 )
